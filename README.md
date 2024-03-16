@@ -9,7 +9,7 @@ https://www.eci.gov.in/disclosure-of-electoral-bonds
 
 # Donation Analysis : 
 
-## Comanay 
+## Companywise  
 
 D:\electoral-bonds-analysis\venv\Scripts\python.exe D:\electoral-bonds-analysis\Main.py input/Company.xlsx output/Company-plot.png 
 
@@ -1332,7 +1332,7 @@ MR. SAMEER BHATIA                                            1000
 KUNAL GUPTA                                                  1000                
 
 
-## Political Party 
+## Political Partywise
 
 D:\electoral-bonds-analysis\venv\Scripts\python.exe D:\electoral-bonds-analysis\Main.py input/Party.xlsx output/Party-plot.png 
 
